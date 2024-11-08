@@ -12,7 +12,7 @@ The dataset used for this analysis is available on GitHub. You can find the raw 
 
 I have used SQL to prep the data. You can view the SQL code at the following link:
 
-[Data Prep SQL]()
+[Data Prep SQL](https://github.com/abhikarora100492/FBI_NICS_Firearm_Background_Check_Analysis/blob/main/dataprep.sql)
 
 ## Tableau Dashboard
 
